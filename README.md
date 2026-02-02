@@ -27,5 +27,4 @@ This project allows users to test their knowledge through multiple-choice questi
 
 ---
 
-## 📂 Project Structure
 
